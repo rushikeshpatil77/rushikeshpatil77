@@ -1,4 +1,4 @@
-[![MasterHead](https://imgs.search.brave.com/KGXMbXQFFGyZfDhKioErsndwx7YVHxpxkKJBI70YEbY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jMC53/YWxscGFwZXJmbGFy/ZS5jb20vcHJldmll/dy85NjkvNTYvODQ3/L2FkdmVydGlzaW5n/LWFuYWx5c2lzLWFu/YWx5dGljcy1ibG9n/LmpwZw)]
+![MasterHead](https://imgs.search.brave.com/QmEYCEkPOR68I8rnk-SblELyWzpGcRW4Z6CQJf5hGjg/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJiYXQuY29t/L2ltZy8yMTQ1Njct/YmlnLWRhdGEtYW5h/bHl0aWNzLWFsbC1h/cHAtaW4tb25lLWhk/LXdhbGxwYXBlci5q/cGc)
 <h1 align="center">Hi 👋, I'm Rushikesh Ravindra Patil</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
