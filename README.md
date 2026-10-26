@@ -28,4 +28,8 @@
 </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rushikeshpatil77&show_icons=true&locale=en&layout=compact" alt="rushikeshpatil77" /></p>
+<p>
+  <img align="center"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushikeshpatil77&hide=Python&show_icons=true&locale=en&layout=compact&langs_count=1&theme=default"
+       alt="Most Used Languages" />
+</p>
