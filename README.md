@@ -1,7 +1,7 @@
-![VLSI MasterHead](https://placehold.co/1200x300/0d1117/00d9ff?text=VLSI+%7C+ASIC+%7C+FPGA+%7C+CMOS)
+![VLSI MasterHead](https://placehold.co/1200x300/0d1117/00d9ff?text=VLSI+Engineer+%7C+RTL+Design+%7C+Verilog+%7C+Digital+Electronics)
 <h1 align="center">Hi 👋, I'm Rushikesh Ravindra Patil</h1>
 <h3 align="center">A passionate in VLSI Domain </h3>
-<img align="right" alt="VLSI Coding" width="400" src="https://placehold.co/400x300/0d1117/00d9ff?text=Verilog+%7C+Digital+Design+%7C+VLSI">src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<img align="right" alt="VLSI Coding" width="400" src="https://placehold.co/400x300/0d1117/00d9ff?text=Verilog+%7C+Digital+Design+%7C+VLSI">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
