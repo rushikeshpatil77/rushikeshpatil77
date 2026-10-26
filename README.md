@@ -26,6 +26,15 @@
 <a href="https://en.wikipedia.org/wiki/CMOS" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/CMOS-VLSI-green" alt="CMOS" height="40"/>
 </a>
+<a href="https://www.intel.com/content/www/us/en/software/programmable/quartus-prime/overview.html" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Intel-Quartus%20Prime-0071C5?style=for-the-badge" alt="Quartus Prime" height="40"/>
+  </a>
+  <a href="https://www.intel.com/content/www/us/en/software/programmable/quartus-prime/modelsim.html" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/ModelSim-Simulation-orange?style=for-the-badge" alt="ModelSim" height="40"/>
+  </a>
+  <a href="https://www.amd.com/en/products/software/adaptive-socs-and-fpgas/vivado.html" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Xilinx-Vivado-E01F27?style=for-the-badge" alt="Xilinx Vivado" height="40"/>
+  </a>
 </p>
 
 <p>
