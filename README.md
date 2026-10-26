@@ -29,7 +29,6 @@
 </p>
 
 <p>
-  <img align="center"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushikeshpatil77&hide=Python&show_icons=true&locale=en&layout=compact&langs_count=1&theme=default"
-       alt="Most Used Languages" />
+  <img src="https://img.shields.io/badge/Most%20Used%20Language-Verilog-blue?style=for-the-badge"
+       alt="Most Used Language: Verilog" />
 </p>
