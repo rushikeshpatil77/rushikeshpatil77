@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- Hi, I graduated in ENTC , **,Pune**
+- Hi, I graduated in ENTC , **Pune**
 - 📫 How to reach me **rushikeshp0702@gmail.com**
 
 - ⚡ Fun fact - **Every complex chip starts with simple logic gates!**
